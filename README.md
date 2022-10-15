@@ -14,9 +14,14 @@
   <img align="center" alt="Kleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kleiton-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Kleiton-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Kleiton-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+    <img align="center" alt="Kleiton-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Kleiton-Neo4j height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
   <img align="right" alt="Kleiton-pic" height="150" style="border-radius:50px;" src="https://scontent.fgig4-1.fna.fbcdn.net/v/t1.6435-9/84398052_2682971965090394_190140457051750400_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=84a396&_nc_ohc=Ycp6MnhKRe0AX89GVr1&_nc_ht=scontent.fgig4-1.fna&oh=00_AT8D5QDeW-Vq9y_5x3ApwoTyrgckTlfD49x2bCvDS3pKag&oe=63706059">
-</div><br>
-  
+</div>
+
+##
+
  <div> 
   <a href="https://instagram.com/kleiton84" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/KleitonAlbuquerque#4225" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
