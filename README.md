@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @kleitonalbuquerque
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🧑‍💻 I'm a software developer
+- 👪 I love my family
+- 🐕 I have a pet
+- 📨 Contact: kleiton2102@gmail.com
+- 📜 I'm Certified Scrum Master by the Scrum Alliance
+- 🧑‍💻 stacks I currently work: Node, VueJS, Neo4J, React, Next e Strapi
 
 <!---
 kleitonalbuquerque/kleitonalbuquerque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
