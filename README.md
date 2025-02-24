@@ -17,7 +17,7 @@
     <img align="center" alt="Kleiton-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     <img align="center" alt="Kleiton-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Kleiton-Neo4j height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
-  <img align="right" alt="Kleiton-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/v2/C4E03AQHr-kCEietayw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1573402694868?e=1736380800&v=beta&t=YyGrNCyWlAJJHC6tPBd2ggjwMshcC8n_LD5Zi4bzVdY">
+  <img align="right" alt="Kleiton-pic" height="150" style="border-radius:50px;" src="[https://media.licdn.com/dms/image/v2/C4E03AQHr-kCEietayw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1573402694868?e=1736380800&v=beta&t=YyGrNCyWlAJJHC6tPBd2ggjwMshcC8n_LD5Zi4bzVdY](https://media.licdn.com/dms/image/v2/C4E03AQHr-kCEietayw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1573402694785?e=1746057600&v=beta&t=7W_4305I3WfqJ2Npbph8vJtmaahWgV24QwcxInaMRyI)">
 </div>
 
 ##
