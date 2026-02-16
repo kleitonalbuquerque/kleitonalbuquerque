@@ -14,9 +14,11 @@
   <img align="center" alt="Kleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kleiton-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Kleiton-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Kleiton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kleiton-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Kleiton-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     <img align="center" alt="Kleiton-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Kleiton-Neo4j height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
+    <img align="center" alt="Kleiton-Neo4j" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
   <img align="right" alt="Kleiton-pic" height="150" style="border-radius: 50px;" src="https://media.licdn.com/dms/image/v2/C4E03AQHr-kCEietayw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1573402694785?e=1756339200&v=beta&t=GtCQ3PpW3uA3QsR6oZBuOEY_AKZnywdK-VwWYe6MCNs">
 </div>
 
